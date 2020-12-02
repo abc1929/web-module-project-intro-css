@@ -132,21 +132,14 @@ table {
   border-spacing: 0;
 }
 
-
-
-
 /* start */
 /* start */
 /* start */
 /* start */
 /* start */
-
-
-
-
 
 body {
-    overflow-x: hidden;
+  overflow-x: hidden;
   width: 90%;
   height: 100vh;
   /* overflow: hidden; */
@@ -225,56 +218,53 @@ header {
 }
 
 .notice {
-    margin-top: 2vh;
-    margin-left: 30% ;
+  margin-top: 2vh;
+  margin-left: 30%;
   width: 50%;
   font-size: 0.65rem;
   text-align: center;
 }
 
-.notice p{
-    margin-top: 4%;
-    margin-left: 25%;
-    width: 50%;
+.notice p {
+  margin-top: 4%;
+  margin-left: 25%;
+  width: 50%;
 }
 
-.bold{
-    font-weight: 700;
+.bold {
+  font-weight: 700;
 }
 
 footer {
-    margin-top: 5vh;
-    background-color: #F9E7DD;
-    width: 100vw;
-    height: 32vh;
-    margin-bottom: 0;
+  margin-top: 5vh;
+  background-color: #f9e7dd;
+  width: 100vw;
+  height: 32vh;
+  margin-bottom: 0;
 }
 
-footer nav{
-    margin-left: -1vh;
+footer nav {
+  margin-left: -1vh;
 }
 
-
-
-#footer_img{
-    width: 100%;
-    height: 20vh;
-    background-image: url("./assets/footer_img.jpg");
-    background-size: cover;
+#footer_img {
+  width: 100%;
+  height: 20vh;
+  background-image: url("./assets/footer_img.jpg");
+  background-size: cover;
 }
 
-button{
-    color: white;
-    border-radius: 12px;
+button {
+  color: white;
+  border-radius: 12px;
 }
 
-.button1{
-    background-color: #FF754E;
+.button1 {
+  background-color: #ff754e;
 }
-.button2{
-    background-color: #5FD3EC;
+.button2 {
+  background-color: #5fd3ec;
 }
-.button3{
-    background-color: #FFCD6A;
+.button3 {
+  background-color: #ffcd6a;
 }
-
