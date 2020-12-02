@@ -210,7 +210,7 @@ header {
   margin-top: 5vh;
   margin-left: 4%;
   text-align: center;
-  background-color: #ddb9a3;
+  background-color: #DDB9A3;
   width: 96%;
   padding: 2% 3%;
   color: #ffffffef;
@@ -237,7 +237,7 @@ header {
 
 footer {
   margin-top: 5vh;
-  background-color: #f9e7dd;
+  background-color: #F9E7DC;
   width: 100vw;
   height: 32vh;
   margin-bottom: 0;
@@ -260,11 +260,11 @@ button {
 }
 
 .button1 {
-  background-color: #ff754e;
+  background-color: #FF764E;
 }
 .button2 {
-  background-color: #5fd3ec;
+  background-color: #5ED3EB;
 }
 .button3 {
-  background-color: #ffcd6a;
+  background-color: #FFCD69;
 }
